@@ -1,0 +1,17 @@
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\bin\Debug\App2.dll
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\bin\Debug\App2.pdb
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\bin\Debug\Xamarin.Forms.Core.dll
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\bin\Debug\Xamarin.Forms.Core.xml
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\obj\Debug\App2.csprojResolveAssemblyReference.cache
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\obj\Debug\App2.dll
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\obj\Debug\App2.pdb
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\obj\Debug\App2.dll.mdb
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\bin\Debug\App2.dll.mdb
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\obj\Debug\App2.dll.mdb
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\bin\Debug\App2.dll.mdb

@@ -1,0 +1,2 @@
+F:\Low\WorkSpace\Xamarin\App2\App2\App2.Windows\App2.Windows.csproj;neutral
+F:\Low\WorkSpace\Xamarin\App2\App2\App2\App2.csproj;neutral
